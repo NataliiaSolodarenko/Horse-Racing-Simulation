@@ -1,4 +1,4 @@
-# Horse-Racing-Simulation
+# Horse Racing Simulation
 
 <h3><b>📌 About the Project</b></h3>
 
